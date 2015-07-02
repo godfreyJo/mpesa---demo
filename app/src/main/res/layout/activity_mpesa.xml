@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/common_padding">
+
+    <Button
+        android:id="@+id/send_money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_money" />
+
+    <Button
+        android:id="@+id/withdraw_cash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/withdraw_cash" />
+
+    <Button
+        android:id="@+id/buy_airtime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buy_airtime" />
+
+    <Button
+        android:id="@+id/m_shwari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/m_shwari" />
+
+    <Button
+        android:id="@+id/lipa_na_mpesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lipa_na_mpesa" />
+
+    <Button
+        android:id="@+id/my_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_acc" />
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Safaricom</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--button titles-->
+    <string name="safcom">Safaricom+</string>
+    <string name="mpesa">Mpesa</string>
+    <string name="send_money">Send money</string>
+    <string name="withdraw_cash">Withdraw Cash</string>
+    <string name="buy_airtime">Buy airtime</string>
+    <string name="m_shwari">M-Shwari</string>
+    <string name="lipa_na_mpesa">Lipa na M-PESA</string>
+    <string name="my_acc">My account</string>
+    <string name="search_sim_contacts">Search SIM Contacts</string>
+    <string name="enter_phone_no">Enter phone no.</string>
+    <string name="btn_text_ok">OK</string>
+
+    <!--activity names-->
+    <string name="title_activity_phone_no">Enter Phone No</string>
+
+    <!--EditText hints-->
+    <string name="hint_phone_no">Digits (0-9,*,#,+) 0-20</string>
+    <string name="hint_amount">Digits (0-9,*,#,+) 0-20</string>
+    <string name="hint_pin">Digits (0-9,*,#,+) 0-20</string>
+
+    <!--TV Titles-->
+    <string name="title_phone_no">Enter phone no.</string>
+    <string name="title_amount">Enter amount</string>
+    <string name="title_pin">Enter pin</string>
+
+</resources>
